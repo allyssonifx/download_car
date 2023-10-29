@@ -1,48 +1,48 @@
 Todas as cidades
-Abadia Dos Dourados###3100104
-Abaetï¿½###3100203
+Abadia dos Dourados###3100104
+Abaeté###3100203
 Abre Campo###3100302
 Acaiaca###3100401
-Aï¿½ucena###3100500
-ï¿½gua Boa###3100609
-ï¿½gua Comprida###3100708
+Açucena###3100500
+Água Boa###3100609
+Água Comprida###3100708
 Aguanil###3100807
-ï¿½guas Formosas###3100906
-ï¿½guas Vermelhas###3101003
-Aimorï¿½s###3101102
+Águas Formosas###3100906
+Águas Vermelhas###3101003
+Aimorés###3101102
 Aiuruoca###3101201
 Alagoa###3101300
 Albertina###3101409
-Alï¿½m Paraï¿½ba###3101508
+Além Paraíba###3101508
 Alfenas###3101607
 Alfredo Vasconcelos###3101631
 Almenara###3101706
 Alpercata###3101805
-Alpinï¿½polis###3101904
+Alpinópolis###3101904
 Alterosa###3102001
-Alto Caparaï¿½###3102050
+Alto Caparaó###3102050
+Alto Jequitibá###3153509
 Alto Rio Doce###3102100
 Alvarenga###3102209
-Alvinï¿½polis###3102308
+Alvinópolis###3102308
 Alvorada de Minas###3102407
 Amparo do Serra###3102506
 Andradas###3102605
-Cachoeira de Pajeï¿½###3102704
-Andrelï¿½ndia###3102803
-Angelï¿½ndia###3102852
-Antï¿½nio Carlos###3102902
-Antï¿½nio Dias###3103009
-Antï¿½nio Prado de Minas###3103108
-Araï¿½aï¿½###3103207
+Andrelândia###3102803
+Angelândia###3102852
+Antônio Carlos###3102902
+Antônio Dias###3103009
+Antônio Prado de Minas###3103108
+Araçaí###3103207
 Aracitaba###3103306
-Araï¿½uaï¿½###3103405
+Araçuaí###3103405
 Araguari###3103504
 Arantina###3103603
 Araponga###3103702
-Araporï¿½###3103751
-Arapuï¿½###3103801
-Araï¿½jos###3103900
-Araxï¿½###3104007
+Araporã###3103751
+Arapuá###3103801
+Araújos###3103900
+Araxá###3104007
 Arceburgo###3104106
 Arcos###3104205
 Areado###3104304
@@ -50,15 +50,15 @@ Argirita###3104403
 Aricanduva###3104452
 Arinos###3104502
 Astolfo Dutra###3104601
-Atalï¿½ia###3104700
+Ataléia###3104700
 Augusto de Lima###3104809
 Baependi###3104908
 Baldim###3105004
-Bambuï¿½###3105103
+Bambuí###3105103
 Bandeira###3105202
 Bandeira do Sul###3105301
-Barï¿½o de Cocais###3105400
-Barï¿½o de Monte Alto###3105509
+Barão de Cocais###3105400
+Barão de Monte Alto###3105509
 Barbacena###3105608
 Barra Longa###3105707
 Barroso###3105905
@@ -68,15 +68,15 @@ Belo Horizonte###3106200
 Belo Oriente###3106309
 Belo Vale###3106408
 Berilo###3106507
-Bertï¿½polis###3106606
 Berizal###3106655
+Bertópolis###3106606
 Betim###3106705
 Bias Fortes###3106804
 Bicas###3106903
 Biquinhas###3107000
-Boa Esperanï¿½a###3107109
+Boa Esperança###3107109
 Bocaina de Minas###3107208
-Bocaiï¿½va###3107307
+Bocaiúva###3107307
 Bom Despacho###3107406
 Bom Jardim de Minas###3107505
 Bom Jesus da Penha###3107604
@@ -85,19 +85,19 @@ Bom Jesus do Galho###3107802
 Bom Repouso###3107901
 Bom Sucesso###3108008
 Bonfim###3108107
-Bonfinï¿½polis de Minas###3108206
+Bonfinópolis de Minas###3108206
 Bonito de Minas###3108255
 Borda da Mata###3108305
 Botelhos###3108404
 Botumirim###3108503
-Brasilï¿½ndia de Minas###3108552
-Brasï¿½lia de Minas###3108602
-Brï¿½s Pires###3108701
-Braï¿½nas###3108800
-Brasï¿½polis###3108909
+Brasilândia de Minas###3108552
+Brasília de Minas###3108602
+Brás Pires###3108701
+Braúnas###3108800
+Brazópolis###3108909
 Brumadinho###3109006
-Bueno Brandï¿½o###3109105
-Buenï¿½polis###3109204
+Bueno Brandão###3109105
+Buenópolis###3109204
 Bugre###3109253
 Buritis###3109303
 Buritizeiro###3109402
@@ -105,17 +105,18 @@ Cabeceira Grande###3109451
 Cabo Verde###3109501
 Cachoeira da Prata###3109600
 Cachoeira de Minas###3109709
+Cachoeira de Pajeú###3102704
 Cachoeira Dourada###3109808
-Caetanï¿½polis###3109907
-Caetï¿½###3110004
+Caetanópolis###3109907
+Caeté###3110004
 Caiana###3110103
 Cajuri###3110202
 Caldas###3110301
 Camacho###3110400
 Camanducaia###3110509
-Cambuï¿½###3110608
+Cambuí###3110608
 Cambuquira###3110707
-Campanï¿½rio###3110806
+Campanário###3110806
 Campanha###3110905
 Campestre###3111002
 Campina Verde###3111101
@@ -125,76 +126,76 @@ Campo do Meio###3111309
 Campo Florido###3111408
 Campos Altos###3111507
 Campos Gerais###3111606
-Canaï¿½###3111705
-Canï¿½polis###3111804
+Canaã###3111705
+Canápolis###3111804
 Cana Verde###3111903
 Candeias###3112000
 Cantagalo###3112059
-Caparaï¿½###3112109
+Caparaó###3112109
 Capela Nova###3112208
 Capelinha###3112307
 Capetinga###3112406
 Capim Branco###3112505
-Capinï¿½polis###3112604
-Capitï¿½o Andrade###3112653
-Capitï¿½o Enï¿½as###3112703
-Capitï¿½lio###3112802
+Capinópolis###3112604
+Capitão Andrade###3112653
+Capitão Enéas###3112703
+Capitólio###3112802
 Caputira###3112901
-Caraï¿½###3113008
-Caranaï¿½ba###3113107
-Carandaï¿½###3113206
+Caraí###3113008
+Caranaíba###3113107
+Carandaí###3113206
 Carangola###3113305
 Caratinga###3113404
 Carbonita###3113503
-Careaï¿½u###3113602
+Careaçu###3113602
 Carlos Chagas###3113701
-Carmï¿½sia###3113800
+Carmésia###3113800
 Carmo da Cachoeira###3113909
 Carmo da Mata###3114006
 Carmo de Minas###3114105
 Carmo do Cajuru###3114204
-Carmo do Paranaï¿½ba###3114303
+Carmo do Paranaíba###3114303
 Carmo do Rio Claro###3114402
-Carmï¿½polis de Minas###3114501
+Carmópolis de Minas###3114501
 Carneirinho###3114550
 Carrancas###3114600
-Carvalhï¿½polis###3114709
+Carvalhópolis###3114709
 Carvalhos###3114808
 Casa Grande###3114907
 Cascalho Rico###3115003
-Cï¿½ssia###3115102
-Conceiï¿½ï¿½o da Barra de Minas###3115201
+Cássia###3115102
 Cataguases###3115300
 Catas Altas###3115359
 Catas Altas da Noruega###3115409
 Catuji###3115458
 Catuti###3115474
 Caxambu###3115508
-Cedro do Abaetï¿½###3115607
+Cedro do Abaeté###3115607
 Central de Minas###3115706
 Centralina###3115805
-Chï¿½cara###3115904
-Chalï¿½###3116001
+Chácara###3115904
+Chalé###3116001
 Chapada do Norte###3116100
-Chapada Gaï¿½cha###3116159
+Chapada Gaúcha###3116159
 Chiador###3116209
-Cipotï¿½nea###3116308
+Cipotânea###3116308
 Claraval###3116407
-Claro Dos Poï¿½ï¿½es###3116506
-Clï¿½udio###3116605
+Claro dos Poções###3116506
+Cláudio###3116605
 Coimbra###3116704
 Coluna###3116803
 Comendador Gomes###3116902
 Comercinho###3117009
-Conceiï¿½ï¿½o da Aparecida###3117108
-Conceiï¿½ï¿½o Das Pedras###3117207
-Conceiï¿½ï¿½o Das Alagoas###3117306
-Conceiï¿½ï¿½o de Ipanema###3117405
-Conceiï¿½ï¿½o do Mato Dentro###3117504
-Conceiï¿½ï¿½o do Parï¿½###3117603
-Conceiï¿½ï¿½o do Rio Verde###3117702
-Conceiï¿½ï¿½o Dos Ouros###3117801
-Cï¿½nego Marinho###3117836
+Conceição da Aparecida###3117108
+Conceição da Barra de Minas###3115201
+Conceição das Alagoas###3117306
+Conceição das Pedras###3117207
+Conceição de Ipanema###3117405
+Conceição do Mato Dentro###3117504
+Conceição do Pará###3117603
+Conceição do Rio Verde###3117702
+Conceição dos Ouros###3117801
+Cônego Marinho###3117836
 Confins###3117876
 Congonhal###3117900
 Congonhas###3118007
@@ -202,12 +203,12 @@ Congonhas do Norte###3118106
 Conquista###3118205
 Conselheiro Lafaiete###3118304
 Conselheiro Pena###3118403
-Consolaï¿½ï¿½o###3118502
+Consolação###3118502
 Contagem###3118601
 Coqueiral###3118700
-Coraï¿½ï¿½o de Jesus###3118809
+Coração de Jesus###3118809
 Cordisburgo###3118908
-Cordislï¿½ndia###3119005
+Cordislândia###3119005
 Corinto###3119104
 Coroaci###3119203
 Coromandel###3119302
@@ -215,76 +216,75 @@ Coronel Fabriciano###3119401
 Coronel Murta###3119500
 Coronel Pacheco###3119609
 Coronel Xavier Chaves###3119708
-Cï¿½rrego Danta###3119807
-Cï¿½rrego do Bom Jesus###3119906
-Cï¿½rrego Fundo###3119955
-Cï¿½rrego Novo###3120003
-Couto de Magalhï¿½es de Minas###3120102
-Crisï¿½lita###3120151
+Córrego Danta###3119807
+Córrego do Bom Jesus###3119906
+Córrego Fundo###3119955
+Córrego Novo###3120003
+Couto de Magalhães de Minas###3120102
+Crisólita###3120151
 Cristais###3120201
-Cristï¿½lia###3120300
+Cristália###3120300
 Cristiano Otoni###3120409
 Cristina###3120508
-Crucilï¿½ndia###3120607
+Crucilândia###3120607
 Cruzeiro da Fortaleza###3120706
-Cruzï¿½lia###3120805
+Cruzília###3120805
 Cuparaque###3120839
 Curral de Dentro###3120870
 Curvelo###3120904
 Datas###3121001
 Delfim Moreira###3121100
-Delfinï¿½polis###3121209
+Delfinópolis###3121209
 Delta###3121258
 Descoberto###3121308
 Desterro de Entre Rios###3121407
 Desterro do Melo###3121506
 Diamantina###3121605
 Diogo de Vasconcelos###3121704
-Dionï¿½sio###3121803
-Divinï¿½sia###3121902
+Dionísio###3121803
+Divinésia###3121902
 Divino###3122009
-Divino Das Laranjeiras###3122108
-Divinolï¿½ndia de Minas###3122207
-Divinï¿½polis###3122306
+Divino das Laranjeiras###3122108
+Divinolândia de Minas###3122207
+Divinópolis###3122306
 Divisa Alegre###3122355
 Divisa Nova###3122405
-Divisï¿½polis###3122454
+Divisópolis###3122454
 Dom Bosco###3122470
 Dom Cavati###3122504
 Dom Joaquim###3122603
-Dom Silvï¿½rio###3122702
-Dom Viï¿½oso###3122801
-Dona Eusï¿½bia###3122900
+Dom Silvério###3122702
+Dom Viçoso###3122801
+Dona Euzébia###3122900
 Dores de Campos###3123007
-Dores de Guanhï¿½es###3123106
-Dores do Indaiï¿½###3123205
+Dores de Guanhães###3123106
+Dores do Indaiá###3123205
 Dores do Turvo###3123304
-Doresï¿½polis###3123403
+Doresópolis###3123403
 Douradoquara###3123502
-Durandï¿½###3123528
-Elï¿½i Mendes###3123601
+Durandé###3123528
+Elói Mendes###3123601
 Engenheiro Caldas###3123700
 Engenheiro Navarro###3123809
 Entre Folhas###3123858
 Entre Rios de Minas###3123908
-Ervï¿½lia###3124005
+Ervália###3124005
 Esmeraldas###3124104
 Espera Feliz###3124203
 Espinosa###3124302
-Espï¿½rito Santo do Dourado###3124401
+Espírito Santo do Dourado###3124401
 Estiva###3124500
 Estrela Dalva###3124609
-Estrela do Indaiï¿½###3124708
+Estrela do Indaiá###3124708
 Estrela do Sul###3124807
-Eugenï¿½polis###3124906
-Ewbank da Cï¿½mara###3125002
+Eugenópolis###3124906
+Ewbank da Câmara###3125002
 Extrema###3125101
 Fama###3125200
 Faria Lemos###3125309
-Felï¿½cio Dos Santos###3125408
-Sï¿½o Gonï¿½alo do Rio Preto###3125507
+Felício dos Santos###3125408
 Felisburgo###3125606
-Felixlï¿½ndia###3125705
+Felixlândia###3125705
 Fernandes Tourinho###3125804
 Ferros###3125903
 Fervedouro###3125952
@@ -293,84 +293,84 @@ Formiga###3126109
 Formoso###3126208
 Fortaleza de Minas###3126307
 Fortuna de Minas###3126406
-Francisco Badarï¿½###3126505
+Francisco Badaró###3126505
 Francisco Dumont###3126604
-Francisco sï¿½###3126703
-Franciscï¿½polis###3126752
+Franciscópolis###3126752
+Francisco Sá###3126703
 Frei Gaspar###3126802
-Frei Inocï¿½ncio###3126901
+Frei Inocêncio###3126901
 Frei Lagonegro###3126950
 Fronteira###3127008
-Fronteira Dos Vales###3127057
+Fronteira dos Vales###3127057
 Fruta de Leite###3127073
 Frutal###3127107
-Funilï¿½ndia###3127206
-Galilï¿½ia###3127305
+Funilândia###3127206
+Galiléia###3127305
 Gameleiras###3127339
-Glaucilï¿½ndia###3127354
+Glaucilândia###3127354
 Goiabeira###3127370
-Goianï¿½###3127388
-Gonï¿½alves###3127404
+Goianá###3127388
+Gonçalves###3127404
 Gonzaga###3127503
 Gouveia###3127602
 Governador Valadares###3127701
-Grï¿½o Mogol###3127800
+Grão Mogol###3127800
 Grupiara###3127909
-Guanhï¿½es###3128006
-Guapï¿½###3128105
+Guanhães###3128006
+Guapé###3128105
 Guaraciaba###3128204
 Guaraciama###3128253
-Guaranï¿½sia###3128303
+Guaranésia###3128303
 Guarani###3128402
-Guararï¿½###3128501
-Guarda-mor###3128600
-Guaxupï¿½###3128709
+Guarará###3128501
+Guarda-Mor###3128600
+Guaxupé###3128709
 Guidoval###3128808
-Guimarï¿½nia###3128907
+Guimarânia###3128907
 Guiricema###3129004
-Gurinhatï¿½###3129103
+Gurinhatã###3129103
 Heliodora###3129202
 Iapu###3129301
 Ibertioga###3129400
-Ibiï¿½###3129509
-Ibiaï¿½###3129608
+Ibiá###3129509
+Ibiaí###3129608
 Ibiracatu###3129657
 Ibiraci###3129707
-Ibiritï¿½###3129806
-Ibitiï¿½ra de Minas###3129905
+Ibirité###3129806
+Ibitiúra de Minas###3129905
 Ibituruna###3130002
-Icaraï¿½ de Minas###3130051
-Igarapï¿½###3130101
+Icaraí de Minas###3130051
+Igarapé###3130101
 Igaratinga###3130200
 Iguatama###3130309
 Ijaci###3130408
-Ilicï¿½nea###3130507
-Imbï¿½ de Minas###3130556
+Ilicínea###3130507
+Imbé de Minas###3130556
 Inconfidentes###3130606
 Indaiabira###3130655
-Indianï¿½polis###3130705
-Ingaï¿½###3130804
+Indianópolis###3130705
+Ingaí###3130804
 Inhapim###3130903
-Inhaï¿½ma###3131000
+Inhaúma###3131000
 Inimutaba###3131109
 Ipaba###3131158
 Ipanema###3131208
 Ipatinga###3131307
-Ipiaï¿½u###3131406
-Ipuiï¿½na###3131505
-Iraï¿½ de Minas###3131604
+Ipiaçu###3131406
+Ipuiúna###3131505
+Iraí de Minas###3131604
 Itabira###3131703
 Itabirinha###3131802
 Itabirito###3131901
 Itacambira###3132008
 Itacarambi###3132107
 Itaguara###3132206
-Itaipï¿½###3132305
-Itajubï¿½###3132404
+Itaipé###3132305
+Itajubá###3132404
 Itamarandiba###3132503
 Itamarati de Minas###3132602
 Itambacuri###3132701
-Itambï¿½ do Mato Dentro###3132800
+Itambé do Mato Dentro###3132800
 Itamogi###3132909
 Itamonte###3133006
 Itanhandu###3133105
@@ -379,9 +379,9 @@ Itaobim###3133303
 Itapagipe###3133402
 Itapecerica###3133501
 Itapeva###3133600
-Itatiaiuï¿½u###3133709
-Itaï¿½ de Minas###3133758
-Itaï¿½na###3133808
+Itatiaiuçu###3133709
+Itaú de Minas###3133758
+Itaúna###3133808
 Itaverava###3133907
 Itinga###3134004
 Itueta###3134103
@@ -391,41 +391,40 @@ Iturama###3134400
 Itutinga###3134509
 Jaboticatubas###3134608
 Jacinto###3134707
-Jacuï¿½###3134806
+Jacuí###3134806
 Jacutinga###3134905
-Jaguaraï¿½u###3135001
-Jaï¿½ba###3135050
+Jaguaraçu###3135001
+Jaíba###3135050
 Jampruca###3135076
-Janaï¿½ba###3135100
-Januï¿½ria###3135209
-Japaraï¿½ba###3135308
+Janaúba###3135100
+Januária###3135209
+Japaraíba###3135308
 Japonvar###3135357
 Jeceaba###3135407
 Jenipapo de Minas###3135456
 Jequeri###3135506
-Jequitaï¿½###3135605
-Jequitibï¿½###3135704
+Jequitaí###3135605
+Jequitibá###3135704
 Jequitinhonha###3135803
-Jesuï¿½nia###3135902
-Joaï¿½ma###3136009
-Joanï¿½sia###3136108
-Joï¿½o Monlevade###3136207
-Joï¿½o Pinheiro###3136306
-Joaquim Felï¿½cio###3136405
-Jordï¿½nia###3136504
-Josï¿½ Gonï¿½alves de Minas###3136520
-Josï¿½ Raydan###3136553
-Josenï¿½polis###3136579
-Nova Uniï¿½o###3136603
+Jesuânia###3135902
+Joaíma###3136009
+Joanésia###3136108
+João Monlevade###3136207
+João Pinheiro###3136306
+Joaquim Felício###3136405
+Jordânia###3136504
+José Gonçalves de Minas###3136520
+Josenópolis###3136579
+José Raydan###3136553
 Juatuba###3136652
 Juiz de Fora###3136702
 Juramento###3136801
 Juruaia###3136900
-Juvenï¿½lia###3136959
+Juvenília###3136959
 Ladainha###3137007
 Lagamar###3137106
 Lagoa da Prata###3137205
-Lagoa Dos Patos###3137304
+Lagoa dos Patos###3137304
 Lagoa Dourada###3137403
 Lagoa Formosa###3137502
 Lagoa Grande###3137536
@@ -444,8 +443,8 @@ Lima Duarte###3138609
 Limeira do Oeste###3138625
 Lontra###3138658
 Luisburgo###3138674
-Luislï¿½ndia###3138682
-Luminï¿½rias###3138708
+Luislândia###3138682
+Luminárias###3138708
 Luz###3138807
 Machacalis###3138906
 Machado###3139003
@@ -453,45 +452,46 @@ Madre de Deus de Minas###3139102
 Malacacheta###3139201
 Mamonas###3139250
 Manga###3139300
-Manhuaï¿½u###3139409
+Manhuaçu###3139409
 Manhumirim###3139508
 Mantena###3139607
 Maravilhas###3139706
 Mar de Espanha###3139805
-Maria da fï¿½###3139904
+Maria da Fé###3139904
 Mariana###3140001
 Marilac###3140100
-Mï¿½rio Campos###3140159
-Maripï¿½ de Minas###3140209
-Marliï¿½ria###3140308
-Marmelï¿½polis###3140407
+Mário Campos###3140159
+Maripá de Minas###3140209
+Marliéria###3140308
+Marmelópolis###3140407
 Martinho Campos###3140506
 Martins Soares###3140530
 Mata Verde###3140555
-Materlï¿½ndia###3140605
+Materlândia###3140605
 Mateus Leme###3140704
+Mathias Lobato###3171501
 Matias Barbosa###3140803
 Matias Cardoso###3140852
-Matipï¿½###3140902
+Matipó###3140902
 Mato Verde###3141009
 Matozinhos###3141108
 Matutina###3141207
 Medeiros###3141306
 Medina###3141405
 Mendes Pimentel###3141504
-Mercï¿½s###3141603
+Mercês###3141603
 Mesquita###3141702
 Minas Novas###3141801
 Minduri###3141900
 Mirabela###3142007
 Miradouro###3142106
-Miraï¿½###3142205
-Miravï¿½nia###3142254
+Miraí###3142205
+Miravânia###3142254
 Moeda###3142304
 Moema###3142403
 Monjolos###3142502
 Monsenhor Paulo###3142601
-Montalvï¿½nia###3142700
+Montalvânia###3142700
 Monte Alegre de Minas###3142809
 Monte Azul###3142908
 Monte Belo###3143005
@@ -499,130 +499,130 @@ Monte Carmelo###3143104
 Monte Formoso###3143153
 Monte Santo de Minas###3143203
 Montes Claros###3143302
-Monte Siï¿½o###3143401
+Monte Sião###3143401
 Montezuma###3143450
 Morada Nova de Minas###3143500
-Morro da Garï¿½a###3143609
+Morro da Garça###3143609
 Morro do Pilar###3143708
 Munhoz###3143807
-Muriaï¿½###3143906
+Muriaé###3143906
 Mutum###3144003
 Muzambinho###3144102
 Nacip Raydan###3144201
 Nanuque###3144300
 Naque###3144359
-Natalï¿½ndia###3144375
-Natï¿½rcia###3144409
+Natalândia###3144375
+Natércia###3144409
 Nazareno###3144508
 Nepomuceno###3144607
 Ninheira###3144656
-Nova Belï¿½m###3144672
+Nova Belém###3144672
 Nova Era###3144706
 Nova Lima###3144805
-Nova Mï¿½dica###3144904
+Nova Módica###3144904
 Nova Ponte###3145000
 Nova Porteirinha###3145059
 Nova Resende###3145109
 Nova Serrana###3145208
+Nova União###3136603
 Novo Cruzeiro###3145307
 Novo Oriente de Minas###3145356
 Novorizonte###3145372
 Olaria###3145406
-Olhos-dï¿½ï¿½gua###3145455
-Olï¿½mpio Noronha###3145505
+Olhos-d'Água###3145455
+Olímpio Noronha###3145505
 Oliveira###3145604
 Oliveira Fortes###3145703
-Onï¿½a de Pitangui###3145802
-Oratï¿½rios###3145851
-Orizï¿½nia###3145877
+Onça de Pitangui###3145802
+Oratórios###3145851
+Orizânia###3145877
 Ouro Branco###3145901
 Ouro Fino###3146008
 Ouro Preto###3146107
 Ouro Verde de Minas###3146206
 Padre Carvalho###3146255
-Padre Paraï¿½so###3146305
+Padre Paraíso###3146305
 Paineiras###3146404
 Pains###3146503
 Pai Pedro###3146552
 Paiva###3146602
 Palma###3146701
-Palmï¿½polis###3146750
+Palmópolis###3146750
 Papagaios###3146909
 Paracatu###3147006
-Parï¿½ de Minas###3147105
-Paraguaï¿½u###3147204
-Paraisï¿½polis###3147303
+Pará de Minas###3147105
+Paraguaçu###3147204
+Paraisópolis###3147303
 Paraopeba###3147402
-Passabï¿½m###3147501
+Passabém###3147501
 Passa Quatro###3147600
 Passa Tempo###3147709
-Passa-vinte###3147808
+Passa Vinte###3147808
 Passos###3147907
 Patis###3147956
 Patos de Minas###3148004
-Patrocï¿½nio###3148103
-Patrocï¿½nio do Muriaï¿½###3148202
-Paula Cï¿½ndido###3148301
+Patrocínio###3148103
+Patrocínio do Muriaé###3148202
+Paula Cândido###3148301
 Paulistas###3148400
-Pavï¿½o###3148509
-Peï¿½anha###3148608
+Pavão###3148509
+Peçanha###3148608
 Pedra Azul###3148707
 Pedra Bonita###3148756
 Pedra do Anta###3148806
-Pedra do Indaiï¿½###3148905
+Pedra do Indaiá###3148905
 Pedra Dourada###3149002
 Pedralva###3149101
 Pedras de Maria da Cruz###3149150
-Pedrinï¿½polis###3149200
+Pedrinópolis###3149200
 Pedro Leopoldo###3149309
 Pedro Teixeira###3149408
 Pequeri###3149507
 Pequi###3149606
-Perdigï¿½o###3149705
+Perdigão###3149705
 Perdizes###3149804
-Perdï¿½es###3149903
+Perdões###3149903
 Periquito###3149952
 Pescador###3150000
 Piau###3150109
 Piedade de Caratinga###3150158
 Piedade de Ponte Nova###3150208
 Piedade do Rio Grande###3150307
-Piedade Dos Gerais###3150406
+Piedade dos Gerais###3150406
 Pimenta###3150505
-Pingo-dï¿½ï¿½gua###3150539
-Pintï¿½polis###3150570
+Pingo-d'Água###3150539
+Pintópolis###3150570
 Piracema###3150604
 Pirajuba###3150703
 Piranga###3150802
-Piranguï¿½u###3150901
+Piranguçu###3150901
 Piranguinho###3151008
 Pirapetinga###3151107
 Pirapora###3151206
-Piraï¿½ba###3151305
+Piraúba###3151305
 Pitangui###3151404
 Piumhi###3151503
 Planura###3151602
-Poï¿½o Fundo###3151701
-Poï¿½os de Caldas###3151800
+Poço Fundo###3151701
+Poços de Caldas###3151800
 Pocrane###3151909
-Pompï¿½u###3152006
+Pompéu###3152006
 Ponte Nova###3152105
 Ponto Chique###3152131
-Ponto Dos Volantes###3152170
+Ponto dos Volantes###3152170
 Porteirinha###3152204
 Porto Firme###3152303
-Potï¿½###3152402
+Poté###3152402
 Pouso Alegre###3152501
 Pouso Alto###3152600
 Prados###3152709
 Prata###3152808
-Pratï¿½polis###3152907
+Pratápolis###3152907
 Pratinha###3153004
 Presidente Bernardes###3153103
 Presidente Juscelino###3153202
 Presidente Kubitschek###3153301
-Presidente Olegï¿½rio###3153400
-Alto Jequitibï¿½###3153509
+Presidente Olegário###3153400
 Prudente de Morais###3153608
 Quartel Geral###3153707
 Queluzito###3153806
@@ -634,9 +634,9 @@ Resende Costa###3154200
 Resplendor###3154309
 Ressaquinha###3154408
 Riachinho###3154457
-Riacho Dos Machados###3154507
-Ribeirï¿½o Das Neves###3154606
-Ribeirï¿½o Vermelho###3154705
+Riacho dos Machados###3154507
+Ribeirão das Neves###3154606
+Ribeirão Vermelho###3154705
 Rio Acima###3154804
 Rio Casca###3154903
 Rio Doce###3155009
@@ -644,211 +644,211 @@ Rio do Prado###3155108
 Rio Espera###3155207
 Rio Manso###3155306
 Rio Novo###3155405
-Rio Paranaï¿½ba###3155504
+Rio Paranaíba###3155504
 Rio Pardo de Minas###3155603
 Rio Piracicaba###3155702
 Rio Pomba###3155801
 Rio Preto###3155900
 Rio Vermelho###3156007
-Ritï¿½polis###3156106
+Ritápolis###3156106
 Rochedo de Minas###3156205
 Rodeiro###3156304
 Romaria###3156403
-Rosï¿½rio da Limeira###3156452
+Rosário da Limeira###3156452
 Rubelita###3156502
 Rubim###3156601
-Sabarï¿½###3156700
-Sabinï¿½polis###3156809
+Sabará###3156700
+Sabinópolis###3156809
 Sacramento###3156908
 Salinas###3157005
 Salto da Divisa###3157104
-Santa Bï¿½rbara###3157203
-Santa Bï¿½rbara do Leste###3157252
-Santa Bï¿½rbara do Monte Verde###3157278
-Santa Bï¿½rbara do Tugï¿½rio###3157302
+Santa Bárbara###3157203
+Santa Bárbara do Leste###3157252
+Santa Bárbara do Monte Verde###3157278
+Santa Bárbara do Tugúrio###3157302
 Santa Cruz de Minas###3157336
 Santa Cruz de Salinas###3157377
 Santa Cruz do Escalvado###3157401
-Santa Efigï¿½nia de Minas###3157500
-Santa fï¿½ de Minas###3157609
+Santa Efigênia de Minas###3157500
+Santa Fé de Minas###3157609
 Santa Helena de Minas###3157658
 Santa Juliana###3157708
 Santa Luzia###3157807
 Santa Margarida###3157906
 Santa Maria de Itabira###3158003
 Santa Maria do Salto###3158102
-Santa Maria do Suaï¿½uï¿½###3158201
+Santa Maria do Suaçuí###3158201
 Santana da Vargem###3158300
 Santana de Cataguases###3158409
 Santana de Pirapama###3158508
 Santana do Deserto###3158607
-Santana do Garambï¿½u###3158706
-Santana do Jacarï¿½###3158805
-Santana do Manhuaï¿½u###3158904
-Santana do Paraï¿½so###3158953
+Santana do Garambéu###3158706
+Santana do Jacaré###3158805
+Santana do Manhuaçu###3158904
+Santana do Paraíso###3158953
 Santana do Riacho###3159001
-Santana Dos Montes###3159100
+Santana dos Montes###3159100
 Santa Rita de Caldas###3159209
+Santa Rita de Ibitipoca###3159407
 Santa Rita de Jacutinga###3159308
 Santa Rita de Minas###3159357
-Santa Rita de Ibitipoca###3159407
 Santa Rita do Itueto###3159506
-Santa Rita do Sapucaï¿½###3159605
+Santa Rita do Sapucaí###3159605
 Santa Rosa da Serra###3159704
-Santa Vitï¿½ria###3159803
-Santo Antï¿½nio do Amparo###3159902
-Santo Antï¿½nio do Aventureiro###3160009
-Santo Antï¿½nio do Grama###3160108
-Santo Antï¿½nio do Itambï¿½###3160207
-Santo Antï¿½nio do Jacinto###3160306
-Santo Antï¿½nio do Monte###3160405
-Santo Antï¿½nio do Retiro###3160454
-Santo Antï¿½nio do Rio Abaixo###3160504
-Santo Hipï¿½lito###3160603
+Santa Vitória###3159803
+Santo Antônio do Amparo###3159902
+Santo Antônio do Aventureiro###3160009
+Santo Antônio do Grama###3160108
+Santo Antônio do Itambé###3160207
+Santo Antônio do Jacinto###3160306
+Santo Antônio do Monte###3160405
+Santo Antônio do Retiro###3160454
+Santo Antônio do Rio Abaixo###3160504
+Santo Hipólito###3160603
 Santos Dumont###3160702
-Sï¿½o Bento Abade###3160801
-Sï¿½o Brï¿½s do Suaï¿½uï¿½###3160900
-Sï¿½o Domingos Das Dores###3160959
-Sï¿½o Domingos do Prata###3161007
-Sï¿½o Fï¿½lix de Minas###3161056
-Sï¿½o Francisco###3161106
-Sï¿½o Francisco de Paula###3161205
-Sï¿½o Francisco de Sales###3161304
-Sï¿½o Francisco do Glï¿½ria###3161403
-Sï¿½o Geraldo###3161502
-Sï¿½o Geraldo da Piedade###3161601
-Sï¿½o Geraldo do Baixio###3161650
-Sï¿½o Gonï¿½alo do Abaetï¿½###3161700
-Sï¿½o Gonï¿½alo do Parï¿½###3161809
-Sï¿½o Gonï¿½alo do Rio Abaixo###3161908
-Sï¿½o Gonï¿½alo do Sapucaï¿½###3162005
-Sï¿½o Gotardo###3162104
-Sï¿½o Joï¿½o Batista do Glï¿½ria###3162203
-Sï¿½o Joï¿½o da Lagoa###3162252
-Sï¿½o Joï¿½o da Mata###3162302
-Sï¿½o Joï¿½o da Ponte###3162401
-Sï¿½o Joï¿½o Das Missï¿½es###3162450
-Sï¿½o Joï¿½o Del Rei###3162500
-Sï¿½o Joï¿½o do Manhuaï¿½u###3162559
-Sï¿½o Joï¿½o do Manteninha###3162575
-Sï¿½o Joï¿½o do Oriente###3162609
-Sï¿½o Joï¿½o do Pacuï¿½###3162658
-Sï¿½o Joï¿½o do Paraï¿½so###3162708
-Sï¿½o Joï¿½o Evangelista###3162807
-Sï¿½o Joï¿½o Nepomuceno###3162906
-Sï¿½o Joaquim de Bicas###3162922
-Sï¿½o Josï¿½ da Barra###3162948
-Sï¿½o Josï¿½ da Lapa###3162955
-Sï¿½o Josï¿½ da Safira###3163003
-Sï¿½o Josï¿½ da Varginha###3163102
-Sï¿½o Josï¿½ do Alegre###3163201
-Sï¿½o Josï¿½ do Divino###3163300
-Sï¿½o Josï¿½ do Goiabal###3163409
-Sï¿½o Josï¿½ do Jacuri###3163508
-Sï¿½o Josï¿½ do Mantimento###3163607
-Sï¿½o Lourenï¿½o###3163706
-Sï¿½o Miguel do Anta###3163805
-Sï¿½o Pedro da Uniï¿½o###3163904
-Sï¿½o Pedro Dos Ferros###3164001
-Sï¿½o Pedro do Suaï¿½uï¿½###3164100
-Sï¿½o Romï¿½o###3164209
-Sï¿½o Roque de Minas###3164308
-Sï¿½o Sebastiï¿½o da Bela Vista###3164407
-Sï¿½o Sebastiï¿½o da Vargem Alegre###3164431
-Sï¿½o Sebastiï¿½o do Anta###3164472
-Sï¿½o Sebastiï¿½o do Maranhï¿½o###3164506
-Sï¿½o Sebastiï¿½o do Oeste###3164605
-Sï¿½o Sebastiï¿½o do Paraï¿½so###3164704
-Sï¿½o Sebastiï¿½o do Rio Preto###3164803
-Sï¿½o Sebastiï¿½o do Rio Verde###3164902
-Sï¿½o Tiago###3165008
-Sï¿½o Tomï¿½s de Aquino###3165107
-Sï¿½o Thomï¿½ Das Letras###3165206
-Sï¿½o Vicente de Minas###3165305
-Sapucaï¿½-mirim###3165404
-Sardoï¿½###3165503
+São Bento Abade###3160801
+São Brás do Suaçuí###3160900
+São Domingos das Dores###3160959
+São Domingos do Prata###3161007
+São Félix de Minas###3161056
+São Francisco###3161106
+São Francisco de Paula###3161205
+São Francisco de Sales###3161304
+São Francisco do Glória###3161403
+São Geraldo###3161502
+São Geraldo da Piedade###3161601
+São Geraldo do Baixio###3161650
+São Gonçalo do Abaeté###3161700
+São Gonçalo do Pará###3161809
+São Gonçalo do Rio Abaixo###3161908
+São Gonçalo do Rio Preto###3125507
+São Gonçalo do Sapucaí###3162005
+São Gotardo###3162104
+São João Batista do Glória###3162203
+São João da Lagoa###3162252
+São João da Mata###3162302
+São João da Ponte###3162401
+São João das Missões###3162450
+São João del Rei###3162500
+São João do Manhuaçu###3162559
+São João do Manteninha###3162575
+São João do Oriente###3162609
+São João do Pacuí###3162658
+São João do Paraíso###3162708
+São João Evangelista###3162807
+São João Nepomuceno###3162906
+São Joaquim de Bicas###3162922
+São José da Barra###3162948
+São José da Lapa###3162955
+São José da Safira###3163003
+São José da Varginha###3163102
+São José do Alegre###3163201
+São José do Divino###3163300
+São José do Goiabal###3163409
+São José do Jacuri###3163508
+São José do Mantimento###3163607
+São Lourenço###3163706
+São Miguel do Anta###3163805
+São Pedro da União###3163904
+São Pedro dos Ferros###3164001
+São Pedro do Suaçuí###3164100
+São Romão###3164209
+São Roque de Minas###3164308
+São Sebastião da Bela Vista###3164407
+São Sebastião da Vargem Alegre###3164431
+São Sebastião do Anta###3164472
+São Sebastião do Maranhão###3164506
+São Sebastião do Oeste###3164605
+São Sebastião do Paraíso###3164704
+São Sebastião do Rio Preto###3164803
+São Sebastião do Rio Verde###3164902
+São Tiago###3165008
+São Tomás de Aquino###3165107
+São Tomé das Letras###3165206
+São Vicente de Minas###3165305
+Sapucaí-Mirim###3165404
+Sardoá###3165503
 Sarzedo###3165537
-Setubinha###3165552
-Sem-peixe###3165560
+Sem-Peixe###3165560
 Senador Amaral###3165578
 Senador Cortes###3165602
 Senador Firmino###3165701
-Senador Josï¿½ Bento###3165800
-Senador Modestino Gonï¿½alves###3165909
+Senador José Bento###3165800
+Senador Modestino Gonçalves###3165909
 Senhora de Oliveira###3166006
 Senhora do Porto###3166105
-Senhora Dos Remï¿½dios###3166204
+Senhora dos Remédios###3166204
 Sericita###3166303
 Seritinga###3166402
 Serra Azul de Minas###3166501
 Serra da Saudade###3166600
-Serra Dos Aimorï¿½s###3166709
+Serra dos Aimorés###3166709
 Serra do Salitre###3166808
 Serrania###3166907
-Serranï¿½polis de Minas###3166956
+Serranópolis de Minas###3166956
 Serranos###3167004
 Serro###3167103
 Sete Lagoas###3167202
-Silveirï¿½nia###3167301
-Silvianï¿½polis###3167400
-Simï¿½o Pereira###3167509
-Simonï¿½sia###3167608
-Sobrï¿½lia###3167707
+Setubinha###3165552
+Silveirânia###3167301
+Silvianópolis###3167400
+Simão Pereira###3167509
+Simonésia###3167608
+Sobrália###3167707
 Soledade de Minas###3167806
 Tabuleiro###3167905
 Taiobeiras###3168002
 Taparuba###3168051
 Tapira###3168101
-Tapiraï¿½###3168200
-Taquaraï¿½u de Minas###3168309
+Tapiraí###3168200
+Taquaraçu de Minas###3168309
 Tarumirim###3168408
 Teixeiras###3168507
-Teï¿½filo Otoni###3168606
-Timï¿½teo###3168705
+Teófilo Otoni###3168606
+Timóteo###3168705
 Tiradentes###3168804
 Tiros###3168903
 Tocantins###3169000
 Tocos do Moji###3169059
 Toledo###3169109
 Tombos###3169208
-Trï¿½s Coraï¿½ï¿½es###3169307
-Trï¿½s Marias###3169356
-Trï¿½s Pontas###3169406
+Três Corações###3169307
+Três Marias###3169356
+Três Pontas###3169406
 Tumiritinga###3169505
 Tupaciguara###3169604
 Turmalina###3169703
-Turvolï¿½ndia###3169802
-Ubï¿½###3169901
-Ubaï¿½###3170008
+Turvolândia###3169802
+Ubá###3169901
+Ubaí###3170008
 Ubaporanga###3170057
 Uberaba###3170107
-Uberlï¿½ndia###3170206
+Uberlândia###3170206
 Umburatiba###3170305
-Unaï¿½###3170404
-Uniï¿½o de Minas###3170438
+Unaí###3170404
+União de Minas###3170438
 Uruana de Minas###3170479
-Urucï¿½nia###3170503
+Urucânia###3170503
 Urucuia###3170529
 Vargem Alegre###3170578
 Vargem Bonita###3170602
 Vargem Grande do Rio Pardo###3170651
 Varginha###3170701
-Varjï¿½o de Minas###3170750
-Vï¿½rzea da Palma###3170800
-Varzelï¿½ndia###3170909
+Varjão de Minas###3170750
+Várzea da Palma###3170800
+Varzelândia###3170909
 Vazante###3171006
-Verdelï¿½ndia###3171030
+Verdelândia###3171030
 Veredinha###3171071
-Verï¿½ssimo###3171105
+Veríssimo###3171105
 Vermelho Novo###3171154
 Vespasiano###3171204
-Viï¿½osa###3171303
+Viçosa###3171303
 Vieiras###3171402
-Mathias Lobato###3171501
 Virgem da Lapa###3171600
-Virgï¿½nia###3171709
-Virginï¿½polis###3171808
-Virgolï¿½ndia###3171907
+Virgínia###3171709
+Virginópolis###3171808
+Virgolândia###3171907
 Visconde do Rio Branco###3172004
 Volta Grande###3172103
 Wenceslau Braz###3172202
