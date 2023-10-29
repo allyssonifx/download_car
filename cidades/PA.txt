@@ -1,0 +1,145 @@
+Todas as cidades
+Abaetetuba###1500107
+Abel Figueiredo###1500131
+Acará###1500206
+Afuá###1500305
+Água Azul do Norte###1500347
+Alenquer###1500404
+Almeirim###1500503
+Altamira###1500602
+Anajás###1500701
+Ananindeua###1500800
+Anapu###1500859
+Augusto Corrêa###1500909
+Aurora do Pará###1500958
+Aveiro###1501006
+Bagre###1501105
+Baião###1501204
+Bannach###1501253
+Barcarena###1501303
+Belém###1501402
+Belterra###1501451
+Benevides###1501501
+Bom Jesus do Tocantins###1501576
+Bonito###1501600
+Bragança###1501709
+Brasil Novo###1501725
+Brejo Grande do Araguaia###1501758
+Breu Branco###1501782
+Breves###1501808
+Bujaru###1501907
+Cachoeira do Arari###1502004
+Cachoeira do Piriá###1501956
+Cametá###1502103
+Canaã dos Carajás###1502152
+Capanema###1502202
+Capitão Poço###1502301
+Castanhal###1502400
+Chaves###1502509
+Colares###1502608
+Conceição do Araguaia###1502707
+Concórdia do Pará###1502756
+Cumaru do Norte###1502764
+Curionópolis###1502772
+Curralinho###1502806
+Curuá###1502855
+Curuçá###1502905
+Dom Eliseu###1502939
+Eldorado do Carajás###1502954
+Faro###1503002
+Floresta do Araguaia###1503044
+Garrafão do Norte###1503077
+Goianésia do Pará###1503093
+Gurupá###1503101
+Igarapé-Açu###1503200
+Igarapé-Miri###1503309
+Inhangapi###1503408
+Ipixuna do Pará###1503457
+Irituia###1503507
+Itaituba###1503606
+Itupiranga###1503705
+Jacareacanga###1503754
+Jacundá###1503804
+Juruti###1503903
+Limoeiro do Ajuru###1504000
+Mãe do Rio###1504059
+Magalhães Barata###1504109
+Marabá###1504208
+Maracanã###1504307
+Marapanim###1504406
+Marituba###1504422
+Medicilândia###1504455
+Melgaço###1504505
+Mocajuba###1504604
+Moju###1504703
+Mojuí dos Campos###1504752
+Monte Alegre###1504802
+Muaná###1504901
+Nova Esperança do Piriá###1504950
+Nova Ipixuna###1504976
+Nova Timboteua###1505007
+Novo Progresso###1505031
+Novo Repartimento###1505064
+Óbidos###1505106
+Oeiras do Pará###1505205
+Oriximiná###1505304
+Ourém###1505403
+Ourilândia do Norte###1505437
+Pacajá###1505486
+Palestina do Pará###1505494
+Paragominas###1505502
+Parauapebas###1505536
+Pau D'Arco###1505551
+Peixe-Boi###1505601
+Piçarra###1505635
+Placas###1505650
+Ponta de Pedras###1505700
+Portel###1505809
+Porto de Moz###1505908
+Prainha###1506005
+Primavera###1506104
+Quatipuru###1506112
+Redenção###1506138
+Rio Maria###1506161
+Rondon do Pará###1506187
+Rurópolis###1506195
+Salinópolis###1506203
+Salvaterra###1506302
+Santa Bárbara do Pará###1506351
+Santa Cruz do Arari###1506401
+Santa Izabel do Pará###1506500
+Santa Luzia do Pará###1506559
+Santa Maria das Barreiras###1506583
+Santa Maria do Pará###1506609
+Santana do Araguaia###1506708
+Santarém###1506807
+Santarém Novo###1506906
+Santo Antônio do Tauá###1507003
+São Caetano de Odivelas###1507102
+São Domingos do Araguaia###1507151
+São Domingos do Capim###1507201
+São Félix do Xingu###1507300
+São Francisco do Pará###1507409
+São Geraldo do Araguaia###1507458
+São João da Ponta###1507466
+São João de Pirabas###1507474
+São João do Araguaia###1507508
+São Miguel do Guamá###1507607
+São Sebastião da Boa Vista###1507706
+Sapucaia###1507755
+Senador José Porfírio###1507805
+Soure###1507904
+Tailândia###1507953
+Terra Alta###1507961
+Terra Santa###1507979
+Tomé-Açu###1508001
+Tracuateua###1508035
+Trairão###1508050
+Tucumã###1508084
+Tucuruí###1508100
+Ulianópolis###1508126
+Uruará###1508159
+Vigia###1508209
+Viseu###1508308
+Vitória do Xingu###1508357
+Xinguara###1508407

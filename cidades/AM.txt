@@ -1,0 +1,63 @@
+Todas as cidades
+Alvarães###1300029
+Amaturá###1300060
+Anamã###1300086
+Anori###1300102
+Apuí###1300144
+Atalaia do Norte###1300201
+Autazes###1300300
+Barcelos###1300409
+Barreirinha###1300508
+Benjamin Constant###1300607
+Beruri###1300631
+Boa Vista do Ramos###1300680
+Boca do Acre###1300706
+Borba###1300805
+Caapiranga###1300839
+Canutama###1300904
+Carauari###1301001
+Careiro###1301100
+Careiro da Várzea###1301159
+Coari###1301209
+Codajás###1301308
+Eirunepé###1301407
+Envira###1301506
+Fonte Boa###1301605
+Guajará###1301654
+Humaitá###1301704
+Ipixuna###1301803
+Iranduba###1301852
+Itacoatiara###1301902
+Itamarati###1301951
+Itapiranga###1302009
+Japurá###1302108
+Juruá###1302207
+Jutaí###1302306
+Lábrea###1302405
+Manacapuru###1302504
+Manaquiri###1302553
+Manaus###1302603
+Manicoré###1302702
+Maraã###1302801
+Maués###1302900
+Nhamundá###1303007
+Nova Olinda do Norte###1303106
+Novo Airão###1303205
+Novo Aripuanã###1303304
+Parintins###1303403
+Pauini###1303502
+Presidente Figueiredo###1303536
+Rio Preto da Eva###1303569
+Santa Isabel do Rio Negro###1303601
+Santo Antônio do Içá###1303700
+São Gabriel da Cachoeira###1303809
+São Paulo de Olivença###1303908
+São Sebastião do Uatumã###1303957
+Silves###1304005
+Tabatinga###1304062
+Tapauá###1304104
+Tefé###1304203
+Tonantins###1304237
+Uarini###1304260
+Urucará###1304302
+Urucurituba###1304401

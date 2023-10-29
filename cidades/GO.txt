@@ -1,0 +1,247 @@
+Todas as cidades
+Abadia de Goiás###5200050
+Abadiânia###5200100
+Acreúna###5200134
+Adelândia###5200159
+Água Fria de Goiás###5200175
+Água Limpa###5200209
+Águas Lindas de Goiás###5200258
+Alexânia###5200308
+Aloândia###5200506
+Alto Horizonte###5200555
+Alto Paraíso de Goiás###5200605
+Alvorada do Norte###5200803
+Amaralina###5200829
+Americano do Brasil###5200852
+Amorinópolis###5200902
+Anápolis###5201108
+Anhanguera###5201207
+Anicuns###5201306
+Aparecida de Goiânia###5201405
+Aparecida do Rio Doce###5201454
+Aporé###5201504
+Araçu###5201603
+Aragarças###5201702
+Aragoiânia###5201801
+Araguapaz###5202155
+Arenópolis###5202353
+Aruanã###5202502
+Aurilândia###5202601
+Avelinópolis###5202809
+Baliza###5203104
+Barro Alto###5203203
+Bela Vista de Goiás###5203302
+Bom Jardim de Goiás###5203401
+Bom Jesus de Goiás###5203500
+Bonfinópolis###5203559
+Bonópolis###5203575
+Brazabrantes###5203609
+Britânia###5203807
+Buriti Alegre###5203906
+Buriti de Goiás###5203939
+Buritinópolis###5203962
+Cabeceiras###5204003
+Cachoeira Alta###5204102
+Cachoeira de Goiás###5204201
+Cachoeira Dourada###5204250
+Caçu###5204300
+Caiapônia###5204409
+Caldas Novas###5204508
+Caldazinha###5204557
+Campestre de Goiás###5204607
+Campinaçu###5204656
+Campinorte###5204706
+Campo Alegre de Goiás###5204805
+Campo Limpo de Goiás###5204854
+Campos Belos###5204904
+Campos Verdes###5204953
+Carmo do Rio Verde###5205000
+Castelândia###5205059
+Catalão###5205109
+Caturaí###5205208
+Cavalcante###5205307
+Ceres###5205406
+Cezarina###5205455
+Chapadão do Céu###5205471
+Cidade Ocidental###5205497
+Cocalzinho de Goiás###5205513
+Colinas do Sul###5205521
+Córrego do Ouro###5205703
+Corumbá de Goiás###5205802
+Corumbaíba###5205901
+Cristalina###5206206
+Cristianópolis###5206305
+Crixás###5206404
+Cromínia###5206503
+Cumari###5206602
+Damianópolis###5206701
+Damolândia###5206800
+Davinópolis###5206909
+Diorama###5207105
+Divinópolis de Goiás###5208301
+Doverlândia###5207253
+Edealina###5207352
+Edéia###5207402
+Estrela do Norte###5207501
+Faina###5207535
+Fazenda Nova###5207600
+Firminópolis###5207808
+Flores de Goiás###5207907
+Formosa###5208004
+Formoso###5208103
+Gameleira de Goiás###5208152
+Goianápolis###5208400
+Goiandira###5208509
+Goianésia###5208608
+Goiânia###5208707
+Goianira###5208806
+Goiás###5208905
+Goiatuba###5209101
+Gouvelândia###5209150
+Guapó###5209200
+Guaraíta###5209291
+Guarani de Goiás###5209408
+Guarinos###5209457
+Heitoraí###5209606
+Hidrolândia###5209705
+Hidrolina###5209804
+Iaciara###5209903
+Inaciolândia###5209937
+Indiara###5209952
+Inhumas###5210000
+Ipameri###5210109
+Ipiranga de Goiás###5210158
+Iporá###5210208
+Israelândia###5210307
+Itaberaí###5210406
+Itaguari###5210562
+Itaguaru###5210604
+Itajá###5210802
+Itapaci###5210901
+Itapirapuã###5211008
+Itapuranga###5211206
+Itarumã###5211305
+Itauçu###5211404
+Itumbiara###5211503
+Ivolândia###5211602
+Jandaia###5211701
+Jaraguá###5211800
+Jataí###5211909
+Jaupaci###5212006
+Jesúpolis###5212055
+Joviânia###5212105
+Jussara###5212204
+Lagoa Santa###5212253
+Leopoldo de Bulhões###5212303
+Luziânia###5212501
+Mairipotaba###5212600
+Mambaí###5212709
+Mara Rosa###5212808
+Marzagão###5212907
+Matrinchã###5212956
+Maurilândia###5213004
+Mimoso de Goiás###5213053
+Minaçu###5213087
+Mineiros###5213103
+Moiporá###5213400
+Monte Alegre de Goiás###5213509
+Montes Claros de Goiás###5213707
+Montividiu###5213756
+Montividiu do Norte###5213772
+Morrinhos###5213806
+Morro Agudo de Goiás###5213855
+Mossâmedes###5213905
+Mozarlândia###5214002
+Mundo Novo###5214051
+Mutunópolis###5214101
+Nazário###5214408
+Nerópolis###5214507
+Niquelândia###5214606
+Nova América###5214705
+Nova Aurora###5214804
+Nova Crixás###5214838
+Nova Glória###5214861
+Nova Iguaçu de Goiás###5214879
+Nova Roma###5214903
+Nova Veneza###5215009
+Novo Brasil###5215207
+Novo Gama###5215231
+Novo Planalto###5215256
+Orizona###5215306
+Ouro Verde de Goiás###5215405
+Ouvidor###5215504
+Padre Bernardo###5215603
+Palestina de Goiás###5215652
+Palmeiras de Goiás###5215702
+Palmelo###5215801
+Palminópolis###5215900
+Panamá###5216007
+Paranaiguara###5216304
+Paraúna###5216403
+Perolândia###5216452
+Petrolina de Goiás###5216809
+Pilar de Goiás###5216908
+Piracanjuba###5217104
+Piranhas###5217203
+Pirenópolis###5217302
+Pires do Rio###5217401
+Planaltina###5217609
+Pontalina###5217708
+Porangatu###5218003
+Porteirão###5218052
+Portelândia###5218102
+Posse###5218300
+Professor Jamil###5218391
+Quirinópolis###5218508
+Rialma###5218607
+Rianápolis###5218706
+Rio Quente###5218789
+Rio Verde###5218805
+Rubiataba###5218904
+Sanclerlândia###5219001
+Santa Bárbara de Goiás###5219100
+Santa Cruz de Goiás###5219209
+Santa Fé de Goiás###5219258
+Santa Helena de Goiás###5219308
+Santa Isabel###5219357
+Santa Rita do Araguaia###5219407
+Santa Rita do Novo Destino###5219456
+Santa Rosa de Goiás###5219506
+Santa Tereza de Goiás###5219605
+Santa Terezinha de Goiás###5219704
+Santo Antônio da Barra###5219712
+Santo Antônio de Goiás###5219738
+Santo Antônio do Descoberto###5219753
+São Domingos###5219803
+São Francisco de Goiás###5219902
+São João d'Aliança###5220009
+São João da Paraúna###5220058
+São Luís de Montes Belos###5220108
+São Luiz do Norte###5220157
+São Miguel do Araguaia###5220207
+São Miguel do Passa Quatro###5220264
+São Patrício###5220280
+São Simão###5220405
+Senador Canedo###5220454
+Serranópolis###5220504
+Silvânia###5220603
+Simolândia###5220686
+Sítio d'Abadia###5220702
+Taquaral de Goiás###5221007
+Teresina de Goiás###5221080
+Terezópolis de Goiás###5221197
+Três Ranchos###5221304
+Trindade###5221403
+Trombas###5221452
+Turvânia###5221502
+Turvelândia###5221551
+Uirapuru###5221577
+Uruaçu###5221601
+Uruana###5221700
+Urutaí###5221809
+Valparaíso de Goiás###5221858
+Varjão###5221908
+Vianópolis###5222005
+Vicentinópolis###5222054
+Vila Boa###5222203
+Vila Propício###5222302

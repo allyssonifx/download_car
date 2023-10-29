@@ -1,0 +1,16 @@
+Todas as cidades
+Alto Alegre###1400050
+Amajari###1400027
+Boa Vista###1400100
+Bonfim###1400159
+Cantá###1400175
+Caracaraí###1400209
+Caroebe###1400233
+Iracema###1400282
+Mucajaí###1400308
+Normandia###1400407
+Pacaraima###1400456
+Rorainópolis###1400472
+São João da Baliza###1400506
+São Luiz###1400605
+Uiramutã###1400704

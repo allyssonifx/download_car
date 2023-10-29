@@ -1,0 +1,140 @@
+Todas as cidades
+Abreulândia###1700251
+Aguiarnópolis###1700301
+Aliança do Tocantins###1700350
+Almas###1700400
+Alvorada###1700707
+Ananás###1701002
+Angico###1701051
+Aparecida do Rio Negro###1701101
+Aragominas###1701309
+Araguacema###1701903
+Araguaçu###1702000
+Araguaína###1702109
+Araguanã###1702158
+Araguatins###1702208
+Arapoema###1702307
+Arraias###1702406
+Augustinópolis###1702554
+Aurora do Tocantins###1702703
+Axixá do Tocantins###1702901
+Babaçulândia###1703008
+Bandeirantes do Tocantins###1703057
+Barra do Ouro###1703073
+Barrolândia###1703107
+Bernardo Sayão###1703206
+Bom Jesus do Tocantins###1703305
+Brasilândia do Tocantins###1703602
+Brejinho de Nazaré###1703701
+Buriti do Tocantins###1703800
+Cachoeirinha###1703826
+Campos Lindos###1703842
+Cariri do Tocantins###1703867
+Carmolândia###1703883
+Carrasco Bonito###1703891
+Caseara###1703909
+Centenário###1704105
+Chapada da Natividade###1705102
+Chapada de Areia###1704600
+Colinas do Tocantins###1705508
+Colméia###1716703
+Combinado###1705557
+Conceição do Tocantins###1705607
+Couto Magalhães###1706001
+Cristalândia###1706100
+Crixás do Tocantins###1706258
+Darcinópolis###1706506
+Dianópolis###1707009
+Divinópolis do Tocantins###1707108
+Dois Irmãos do Tocantins###1707207
+Dueré###1707306
+Esperantina###1707405
+Fátima###1707553
+Figueirópolis###1707652
+Filadélfia###1707702
+Formoso do Araguaia###1708205
+Goianorte###1708304
+Goiatins###1709005
+Guaraí###1709302
+Gurupi###1709500
+Ipueiras###1709807
+Itacajá###1710508
+Itaguatins###1710706
+Itapiratins###1710904
+Itaporã do Tocantins###1711100
+Jaú do Tocantins###1711506
+Juarina###1711803
+Lagoa da Confusão###1711902
+Lagoa do Tocantins###1711951
+Lajeado###1712009
+Lavandeira###1712157
+Lizarda###1712405
+Luzinópolis###1712454
+Marianópolis do Tocantins###1712504
+Mateiros###1712702
+Maurilândia do Tocantins###1712801
+Miracema do Tocantins###1713205
+Miranorte###1713304
+Monte do Carmo###1713601
+Monte Santo do Tocantins###1713700
+Muricilândia###1713957
+Natividade###1714203
+Nazaré###1714302
+Nova Olinda###1714880
+Nova Rosalândia###1715002
+Novo Acordo###1715101
+Novo Alegre###1715150
+Novo Jardim###1715259
+Oliveira de Fátima###1715507
+Palmas###1721000
+Palmeirante###1715705
+Palmeiras do Tocantins###1713809
+Palmeirópolis###1715754
+Paraíso do Tocantins###1716109
+Paranã###1716208
+Pau D'Arco###1716307
+Pedro Afonso###1716505
+Peixe###1716604
+Pequizeiro###1716653
+Pindorama do Tocantins###1717008
+Piraquê###1717206
+Pium###1717503
+Ponte Alta do Bom Jesus###1717800
+Ponte Alta do Tocantins###1717909
+Porto Alegre do Tocantins###1718006
+Porto Nacional###1718204
+Praia Norte###1718303
+Presidente Kennedy###1718402
+Pugmil###1718451
+Recursolândia###1718501
+Riachinho###1718550
+Rio da Conceição###1718659
+Rio dos Bois###1718709
+Rio Sono###1718758
+Sampaio###1718808
+Sandolândia###1718840
+Santa Fé do Araguaia###1718865
+Santa Maria do Tocantins###1718881
+Santa Rita do Tocantins###1718899
+Santa Rosa do Tocantins###1718907
+Santa Tereza do Tocantins###1719004
+Santa Terezinha do Tocantins###1720002
+São Bento do Tocantins###1720101
+São Félix do Tocantins###1720150
+São Miguel do Tocantins###1720200
+São Salvador do Tocantins###1720259
+São Sebastião do Tocantins###1720309
+São Valério###1720499
+Silvanópolis###1720655
+Sítio Novo do Tocantins###1720804
+Sucupira###1720853
+Tabocão###1708254
+Taguatinga###1720903
+Taipas do Tocantins###1720937
+Talismã###1720978
+Tocantínia###1721109
+Tocantinópolis###1721208
+Tupirama###1721257
+Tupiratins###1721307
+Wanderlândia###1722081
+Xambioá###1722107

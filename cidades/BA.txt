@@ -1,0 +1,178 @@
+madre de deus###2919926
+maetinga###2919959
+maiquinique###2920007
+mairi###2920106
+malhada###2920205
+malhada de pedras###2920304
+manoel vitorino###2920403
+mansidao###2920452
+maracas###2920502
+maragogipe###2920601
+marau###2920700
+marcionilio souza###2920809
+mascote###2920908
+mata de sao joao###2921005
+matina###2921054
+medeiros neto###2921104
+miguel calmon###2921203
+milagres###2921302
+mirangaba###2921401
+mirante###2921450
+monte santo###2921500
+morpara###2921609
+morro do chapeu###2921708
+mortugaba###2921807
+mucuge###2921906
+mucuri###2922003
+mulungu do morro###2922052
+mundo novo###2922102
+muniz ferreira###2922201
+muquem de sao francisco###2922250
+muritiba###2922300
+mutuipe###2922409
+nazare###2922508
+nilo pecanha###2922607
+nordestina###2922656
+nova canaa###2922706
+nova fatima###2922730
+nova ibia###2922755
+nova itarana###2922805
+nova redencao###2922854
+nova soure###2922904
+nova vicosa###2923001
+novo horizonte###2923035
+novo triunfo###2923050
+olindina###2923100
+oliveira dos brejinhos###2923209
+ouricangas###2923308
+ourolandia###2923357
+palmas de monte alto###2923407
+palmeiras###2923506
+paramirim###2923605
+paratinga###2923704
+paripiranga###2923803
+pau brasil###2923902
+paulo afonso###2924009
+pe de serra###2924058
+pedrao###2924108
+pedro alexandre###2924207
+piata###2924306
+pilao arcado###2924405
+pindai###2924504
+pindobacu###2924603
+pintadas###2924652
+pirai do norte###2924678
+piripa###2924702
+piritiba###2924801
+planaltino###2924900
+planalto###2925006
+pocoes###2925105
+pojuca###2925204
+ponto novo###2925253
+porto seguro###2925303
+potiragua###2925402
+prado###2925501
+presidente dutra###2925600
+presidente janio quadros###2925709
+presidente tancredo neves###2925758
+queimadas###2925808
+quijingue###2925907
+quixabeira###2925931
+rafael jambeiro###2925956
+remanso###2926004
+retirolandia###2926103
+riachao das neves###2926202
+riachao do jacuipe###2926301
+riacho de santana###2926400
+ribeira do amparo###2926509
+ribeira do pombal###2926608
+ribeirao do largo###2926657
+rio de contas###2926707
+rio do antonio###2926806
+rio do pires###2926905
+rio real###2927002
+rodelas###2927101
+ruy barbosa###2927200
+salinas da margarida###2927309
+salvador###2927408
+santa barbara###2927507
+santa brigida###2927606
+santa cruz cabralia###2927705
+santa cruz da vitoria###2927804
+santa ines###2927903
+santaluz###2928000
+santa luzia###2928059
+santa maria da vitoria###2928109
+santana###2928208
+santanopolis###2928307
+santa rita de cassia###2928406
+santa teresinha###2928505
+santo amaro###2928604
+santo antonio de jesus###2928703
+santo estevao###2928802
+sao desiderio###2928901
+sao domingos###2928950
+sao felix###2929008
+sao felix do coribe###2929057
+sao felipe###2929107
+sao francisco do conde###2929206
+sao gabriel###2929255
+sao goncalo dos campos###2929305
+sao jose da vitoria###2929354
+sao jose do jacuipe###2929370
+sao miguel das matas###2929404
+sao sebastiao do passe###2929503
+sapeacu###2929602
+satiro dias###2929701
+saubara###2929750
+saude###2929800
+seabra###2929909
+sebastiao laranjeiras###2930006
+senhor do bonfim###2930105
+serra do ramalho###2930154
+sento se###2930204
+serra dourada###2930303
+serra preta###2930402
+serrinha###2930501
+serrolandia###2930600
+simoes filho###2930709
+sitio do mato###2930758
+sitio do quinto###2930766
+sobradinho###2930774
+souto soares###2930808
+tabocas do brejo velho###2930907
+tanhacu###2931004
+tanque novo###2931053
+tanquinho###2931103
+taperoa###2931202
+tapiramuta###2931301
+teixeira de freitas###2931350
+teodoro sampaio###2931400
+teofilandia###2931509
+teolandia###2931608
+terra nova###2931707
+tremedal###2931806
+tucano###2931905
+uaua###2932002
+ubaira###2932101
+ubaitaba###2932200
+ubata###2932309
+uibai###2932408
+umburanas###2932457
+una###2932507
+urandi###2932606
+urucuca###2932705
+utinga###2932804
+valenca###2932903
+valente###2933000
+varzea da roca###2933059
+varzea do poco###2933109
+varzea nova###2933158
+varzedo###2933174
+vera cruz###2933208
+vereda###2933257
+vitoria da conquista###2933307
+wagner###2933406
+wanderley###2933455
+wenceslau guimaraes###2933505
+xique-xique###2933604

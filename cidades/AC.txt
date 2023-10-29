@@ -1,0 +1,23 @@
+Todas as cidades
+Acrelândia###1200013
+Assis Brasil###1200054
+Brasiléia###1200104
+Bujari###1200138
+Capixaba###1200179
+Cruzeiro do Sul###1200203
+Epitaciolândia###1200252
+Feijó###1200302
+Jordão###1200328
+Mâncio Lima###1200336
+Manoel Urbano###1200344
+Marechal Thaumaturgo###1200351
+Plácido de Castro###1200385
+Porto Acre###1200807
+Porto Walter###1200393
+Rio Branco###1200401
+Rodrigues Alves###1200427
+Santa Rosa do Purus###1200435
+Senador Guiomard###1200450
+Sena Madureira###1200500
+Tarauacá###1200609
+Xapuri###1200708

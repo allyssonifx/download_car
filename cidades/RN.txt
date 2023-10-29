@@ -1,0 +1,168 @@
+Todas as cidades
+Acari###2400109
+Açu###2400208
+Afonso Bezerra###2400307
+Água Nova###2400406
+Alexandria###2400505
+Almino Afonso###2400604
+Alto do Rodrigues###2400703
+Angicos###2400802
+Antônio Martins###2400901
+Apodi###2401008
+Areia Branca###2401107
+Arês###2401206
+Baía Formosa###2401404
+Baraúna###2401453
+Barcelona###2401503
+Bento Fernandes###2401602
+Bodó###2401651
+Bom Jesus###2401701
+Brejinho###2401800
+Caiçara do Norte###2401859
+Caiçara do Rio do Vento###2401909
+Caicó###2402006
+Campo Grande###2401305
+Campo Redondo###2402105
+Canguaretama###2402204
+Caraúbas###2402303
+Carnaúba dos Dantas###2402402
+Carnaubais###2402501
+Ceará-Mirim###2402600
+Cerro Corá###2402709
+Coronel Ezequiel###2402808
+Coronel João Pessoa###2402907
+Cruzeta###2403004
+Currais Novos###2403103
+Doutor Severiano###2403202
+Encanto###2403301
+Equador###2403400
+Espírito Santo###2403509
+Extremoz###2403608
+Felipe Guerra###2403707
+Fernando Pedroza###2403756
+Florânia###2403806
+Francisco Dantas###2403905
+Frutuoso Gomes###2404002
+Galinhos###2404101
+Goianinha###2404200
+Governador Dix-Sept Rosado###2404309
+Grossos###2404408
+Guamaré###2404507
+Ielmo Marinho###2404606
+Ipanguaçu###2404705
+Ipueira###2404804
+Itajá###2404853
+Itaú###2404903
+Jaçanã###2405009
+Jandaíra###2405108
+Janduís###2405207
+Januário Cicco###2405306
+Japi###2405405
+Jardim de Angicos###2405504
+Jardim de Piranhas###2405603
+Jardim do Seridó###2405702
+João Câmara###2405801
+João Dias###2405900
+José da Penha###2406007
+Jucurutu###2406106
+Jundiá###2406155
+Lagoa d'Anta###2406205
+Lagoa de Pedras###2406304
+Lagoa de Velhos###2406403
+Lagoa Nova###2406502
+Lagoa Salgada###2406601
+Lajes###2406700
+Lajes Pintadas###2406809
+Lucrécia###2406908
+Luís Gomes###2407005
+Macaíba###2407104
+Macau###2407203
+Major Sales###2407252
+Marcelino Vieira###2407302
+Martins###2407401
+Maxaranguape###2407500
+Messias Targino###2407609
+Montanhas###2407708
+Monte Alegre###2407807
+Monte das Gameleiras###2407906
+Mossoró###2408003
+Natal###2408102
+Nísia Floresta###2408201
+Nova Cruz###2408300
+Olho d'Água do Borges###2408409
+Ouro Branco###2408508
+Paraná###2408607
+Paraú###2408706
+Parazinho###2408805
+Parelhas###2408904
+Parnamirim###2403251
+Passa e Fica###2409100
+Passagem###2409209
+Patu###2409308
+Pau dos Ferros###2409407
+Pedra Grande###2409506
+Pedra Preta###2409605
+Pedro Avelino###2409704
+Pedro Velho###2409803
+Pendências###2409902
+Pilões###2410009
+Poço Branco###2410108
+Portalegre###2410207
+Porto do Mangue###2410256
+Pureza###2410405
+Rafael Fernandes###2410504
+Rafael Godeiro###2410603
+Riacho da Cruz###2410702
+Riacho de Santana###2410801
+Riachuelo###2410900
+Rio do Fogo###2408953
+Rodolfo Fernandes###2411007
+Ruy Barbosa###2411106
+Santa Cruz###2411205
+Santa Maria###2409332
+Santana do Matos###2411403
+Santana do Seridó###2411429
+Santo Antônio###2411502
+São Bento do Norte###2411601
+São Bento do Trairí###2411700
+São Fernando###2411809
+São Francisco do Oeste###2411908
+São Gonçalo do Amarante###2412005
+São João do Sabugi###2412104
+São José de Mipibu###2412203
+São José do Campestre###2412302
+São José do Seridó###2412401
+São Miguel###2412500
+São Miguel do Gostoso###2412559
+São Paulo do Potengi###2412609
+São Pedro###2412708
+São Rafael###2412807
+São Tomé###2412906
+São Vicente###2413003
+Senador Elói de Souza###2413102
+Senador Georgino Avelino###2413201
+Serra Caiada###2410306
+Serra de São Bento###2413300
+Serra do Mel###2413359
+Serra Negra do Norte###2413409
+Serrinha###2413508
+Serrinha dos Pintos###2413557
+Severiano Melo###2413607
+Sítio Novo###2413706
+Taboleiro Grande###2413805
+Taipu###2413904
+Tangará###2414001
+Tenente Ananias###2414100
+Tenente Laurentino Cruz###2414159
+Tibau###2411056
+Tibau do Sul###2414209
+Timbaúba dos Batistas###2414308
+Touros###2414407
+Triunfo Potiguar###2414456
+Umarizal###2414506
+Upanema###2414605
+Várzea###2414704
+Venha-Ver###2414753
+Vera Cruz###2414803
+Viçosa###2414902
+Vila Flor###2415008

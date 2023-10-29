@@ -1,0 +1,100 @@
+sao caetano do sul###3548807
+sao carlos###3548906
+sao francisco###3549003
+sao joao da boa vista###3549102
+sao joao das duas pontes###3549201
+sao joao de iracema###3549250
+sao joao do pau d'alho###3549300
+sao joaquim da barra###3549409
+sao jose da bela vista###3549508
+sao jose do barreiro###3549607
+sao jose do rio pardo###3549706
+sao jose do rio preto###3549805
+sao jose dos campos###3549904
+sao lourenco da serra###3549953
+sao luis do paraitinga###3550001
+sao manuel###3550100
+sao miguel arcanjo###3550209
+sao paulo###3550308
+sao pedro###3550407
+sao pedro do turvo###3550506
+sao roque###3550605
+sao sebastiao###3550704
+sao sebastiao da grama###3550803
+sao simao###3550902
+sao vicente###3551009
+sarapui###3551108
+sarutaia###3551207
+sebastianopolis do sul###3551306
+serra azul###3551405
+serrana###3551504
+serra negra###3551603
+sertaozinho###3551702
+sete barras###3551801
+severinia###3551900
+silveiras###3552007
+socorro###3552106
+sorocaba###3552205
+sud mennucci###3552304
+sumare###3552403
+suzano###3552502
+suzanapolis###3552551
+tabapua###3552601
+tabatinga###3552700
+taboao da serra###3552809
+taciba###3552908
+taguai###3553005
+taiacu###3553104
+taiuva###3553203
+tambau###3553302
+tanabi###3553401
+tapirai###3553500
+tapiratiba###3553609
+taquaral###3553658
+taquaritinga###3553708
+taquarituba###3553807
+taquarivai###3553856
+tarabai###3553906
+taruma###3553955
+tatui###3554003
+taubate###3554102
+tejupa###3554201
+teodoro sampaio###3554300
+terra roxa###3554409
+tiete###3554508
+timburi###3554607
+torre de pedra###3554656
+torrinha###3554706
+trabiju###3554755
+tremembe###3554805
+tres fronteiras###3554904
+tuiuti###3554953
+tupa###3555000
+tupi paulista###3555109
+turiuba###3555208
+turmalina###3555307
+ubarana###3555356
+ubatuba###3555406
+ubirajara###3555505
+uchoa###3555604
+uniao paulista###3555703
+urania###3555802
+uru###3555901
+urupes###3556008
+valentim gentil###3556107
+valinhos###3556206
+valparaiso###3556305
+vargem###3556354
+vargem grande do sul###3556404
+vargem grande paulista###3556453
+varzea paulista###3556503
+vera cruz###3556602
+vinhedo###3556701
+viradouro###3556800
+vista alegre do alto###3556909
+vitoria brasil###3556958
+votorantim###3557006
+votuporanga###3557105
+zacarias###3557154
+chavantes###3557204
+estiva gerbi###3557303

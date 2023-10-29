@@ -1,0 +1,53 @@
+Todas as cidades
+Alta Floresta D'Oeste###1100015
+Alto Alegre dos Parecis###1100379
+Alto Paraíso###1100403
+Alvorada D'Oeste###1100346
+Ariquemes###1100023
+Buritis###1100452
+Cabixi###1100031
+Cacaulândia###1100601
+Cacoal###1100049
+Campo Novo de Rondônia###1100700
+Candeias do Jamari###1100809
+Castanheiras###1100908
+Cerejeiras###1100056
+Chupinguaia###1100924
+Colorado do Oeste###1100064
+Corumbiara###1100072
+Costa Marques###1100080
+Cujubim###1100940
+Espigão D'Oeste###1100098
+Governador Jorge Teixeira###1101005
+Guajará-Mirim###1100106
+Itapuã do Oeste###1101104
+Jaru###1100114
+Ji-Paraná###1100122
+Machadinho D'Oeste###1100130
+Ministro Andreazza###1101203
+Mirante da Serra###1101302
+Monte Negro###1101401
+Nova Brasilândia D'Oeste###1100148
+Nova Mamoré###1100338
+Nova União###1101435
+Novo Horizonte do Oeste###1100502
+Ouro Preto do Oeste###1100155
+Parecis###1101450
+Pimenta Bueno###1100189
+Pimenteiras do Oeste###1101468
+Porto Velho###1100205
+Presidente Médici###1100254
+Primavera de Rondônia###1101476
+Rio Crespo###1100262
+Rolim de Moura###1100288
+Santa Luzia D'Oeste###1100296
+São Felipe D'Oeste###1101484
+São Francisco do Guaporé###1101492
+São Miguel do Guaporé###1100320
+Seringueiras###1101500
+Teixeirópolis###1101559
+Theobroma###1101609
+Urupá###1101708
+Vale do Anari###1101757
+Vale do Paraíso###1101807
+Vilhena###1100304

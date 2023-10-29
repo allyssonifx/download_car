@@ -1,0 +1,319 @@
+congonhinhas###4106001
+conselheiro mairinck###4106100
+contenda###4106209
+corbelia###4106308
+cornelio procopio###4106407
+coronel domingos soares###4106456
+coronel vivida###4106506
+corumbatai do sul###4106555
+cruzeiro do iguacu###4106571
+cruzeiro do oeste###4106605
+cruzeiro do sul###4106704
+cruz machado###4106803
+cruzmaltina###4106852
+curitiba###4106902
+curiuva###4107009
+diamante do norte###4107108
+diamante do sul###4107124
+diamante d'oeste###4107157
+dois vizinhos###4107207
+douradina###4107256
+doutor camargo###4107306
+eneas marques###4107405
+engenheiro beltrao###4107504
+esperanca nova###4107520
+entre rios do oeste###4107538
+espigao alto do iguacu###4107546
+farol###4107553
+faxinal###4107603
+fazenda rio grande###4107652
+fenix###4107702
+fernandes pinheiro###4107736
+figueira###4107751
+florai###4107801
+flor da serra do sul###4107850
+floresta###4107900
+florestopolis###4108007
+florida###4108106
+formosa do oeste###4108205
+foz do iguacu###4108304
+francisco alves###4108320
+francisco beltrao###4108403
+foz do jordao###4108452
+general carneiro###4108502
+godoy moreira###4108551
+goioere###4108601
+goioxim###4108650
+grandes rios###4108700
+guaira###4108809
+guairaca###4108908
+guamiranga###4108957
+guapirama###4109005
+guaporema###4109104
+guaraci###4109203
+guaraniacu###4109302
+guarapuava###4109401
+guaraquecaba###4109500
+guaratuba###4109609
+honorio serpa###4109658
+ibaiti###4109708
+ibema###4109757
+ibipora###4109807
+icaraima###4109906
+iguaracu###4110003
+iguatu###4110052
+imbau###4110078
+imbituva###4110102
+inacio martins###4110201
+inaja###4110300
+indianopolis###4110409
+ipiranga###4110508
+ipora###4110607
+iracema do oeste###4110656
+irati###4110706
+iretama###4110805
+itaguaje###4110904
+itaipulandia###4110953
+itambaraca###4111001
+itambe###4111100
+itapejara d'oeste###4111209
+itaperucu###4111258
+itauna do sul###4111308
+ivai###4111407
+ivaipora###4111506
+ivate###4111555
+ivatuba###4111605
+jaboti###4111704
+jacarezinho###4111803
+jaguapita###4111902
+jaguariaiva###4112009
+jandaia do sul###4112108
+janiopolis###4112207
+japira###4112306
+japura###4112405
+jardim alegre###4112504
+jardim olinda###4112603
+jataizinho###4112702
+jesuitas###4112751
+joaquim tavora###4112801
+jundiai do sul###4112900
+juranda###4112959
+jussara###4113007
+kalore###4113106
+lapa###4113205
+laranjal###4113254
+laranjeiras do sul###4113304
+leopolis###4113403
+lidianopolis###4113429
+lindoeste###4113452
+loanda###4113502
+lobato###4113601
+londrina###4113700
+luiziana###4113734
+lunardelli###4113759
+lupionopolis###4113809
+mallet###4113908
+mambore###4114005
+mandaguacu###4114104
+mandaguari###4114203
+mandirituba###4114302
+manfrinopolis###4114351
+mangueirinha###4114401
+manoel ribas###4114500
+marechal candido rondon###4114609
+maria helena###4114708
+marialva###4114807
+marilandia do sul###4114906
+marilena###4115002
+mariluz###4115101
+maringa###4115200
+mariopolis###4115309
+maripa###4115358
+marmeleiro###4115408
+marquinho###4115457
+marumbi###4115507
+matelandia###4115606
+matinhos###4115705
+mato rico###4115739
+maua da serra###4115754
+medianeira###4115804
+mercedes###4115853
+mirador###4115903
+miraselva###4116000
+missal###4116059
+moreira sales###4116109
+morretes###4116208
+munhoz de melo###4116307
+nossa senhora das gracas###4116406
+nova alianca do ivai###4116505
+nova america da colina###4116604
+nova aurora###4116703
+nova cantu###4116802
+nova esperanca###4116901
+nova esperanca do sudoeste###4116950
+nova fatima###4117008
+nova laranjeiras###4117057
+nova londrina###4117107
+nova olimpia###4117206
+nova santa barbara###4117214
+nova santa rosa###4117222
+nova prata do iguacu###4117255
+nova tebas###4117271
+novo itacolomi###4117297
+ortigueira###4117305
+ourizona###4117404
+ouro verde do oeste###4117453
+paicandu###4117503
+palmas###4117602
+palmeira###4117701
+palmital###4117800
+palotina###4117909
+paraiso do norte###4118006
+paranacity###4118105
+paranagua###4118204
+paranapoema###4118303
+paranavai###4118402
+pato bragado###4118451
+pato branco###4118501
+paula freitas###4118600
+paulo frontin###4118709
+peabiru###4118808
+perobal###4118857
+perola###4118907
+perola d'oeste###4119004
+pien###4119103
+pinhais###4119152
+pinhalao###4119202
+pinhal de sao bento###4119251
+pinhao###4119301
+pirai do sul###4119400
+piraquara###4119509
+pitanga###4119608
+pitangueiras###4119657
+planaltina do parana###4119707
+planalto###4119806
+ponta grossa###4119905
+pontal do parana###4119954
+porecatu###4120002
+porto amazonas###4120101
+porto barreiro###4120150
+porto rico###4120200
+porto vitoria###4120309
+prado ferreira###4120333
+pranchita###4120358
+presidente castelo branco###4120408
+primeiro de maio###4120507
+prudentopolis###4120606
+quarto centenario###4120655
+quatigua###4120705
+quatro barras###4120804
+quatro pontes###4120853
+quedas do iguacu###4120903
+querencia do norte###4121000
+quinta do sol###4121109
+quitandinha###4121208
+ramilandia###4121257
+rancho alegre###4121307
+rancho alegre d'oeste###4121356
+realeza###4121406
+reboucas###4121505
+renascenca###4121604
+reserva###4121703
+reserva do iguacu###4121752
+ribeirao claro###4121802
+ribeirao do pinhal###4121901
+rio azul###4122008
+rio bom###4122107
+rio bonito do iguacu###4122156
+rio branco do ivai###4122172
+rio branco do sul###4122206
+rio negro###4122305
+rolandia###4122404
+roncador###4122503
+rondon###4122602
+rosario do ivai###4122651
+sabaudia###4122701
+salgado filho###4122800
+salto do itarare###4122909
+salto do lontra###4123006
+santa amelia###4123105
+santa cecilia do pavao###4123204
+santa cruz de monte castelo###4123303
+santa fe###4123402
+santa helena###4123501
+santa ines###4123600
+santa isabel do ivai###4123709
+santa izabel do oeste###4123808
+santa lucia###4123824
+santa maria do oeste###4123857
+santa mariana###4123907
+santa monica###4123956
+santana do itarare###4124004
+santa tereza do oeste###4124020
+santa terezinha de itaipu###4124053
+santo antonio da platina###4124103
+santo antonio do caiua###4124202
+santo antonio do paraiso###4124301
+santo antonio do sudoeste###4124400
+santo inacio###4124509
+sao carlos do ivai###4124608
+sao jeronimo da serra###4124707
+sao joao###4124806
+sao joao do caiua###4124905
+sao joao do ivai###4125001
+sao joao do triunfo###4125100
+sao jorge d'oeste###4125209
+sao jorge do ivai###4125308
+sao jorge do patrocinio###4125357
+sao jose da boa vista###4125407
+sao jose das palmeiras###4125456
+sao jose dos pinhais###4125506
+sao manoel do parana###4125555
+sao mateus do sul###4125605
+sao miguel do iguacu###4125704
+sao pedro do iguacu###4125753
+sao pedro do ivai###4125803
+sao pedro do parana###4125902
+sao sebastiao da amoreira###4126009
+sao tome###4126108
+sapopema###4126207
+sarandi###4126256
+saudade do iguacu###4126272
+senges###4126306
+serranopolis do iguacu###4126355
+sertaneja###4126405
+sertanopolis###4126504
+siqueira campos###4126603
+sulina###4126652
+tamarana###4126678
+tamboara###4126702
+tapejara###4126801
+tapira###4126900
+teixeira soares###4127007
+telemaco borba###4127106
+terra boa###4127205
+terra rica###4127304
+terra roxa###4127403
+tibagi###4127502
+tijucas do sul###4127601
+toledo###4127700
+tomazina###4127809
+tres barras do parana###4127858
+tunas do parana###4127882
+tuneiras do oeste###4127908
+tupassi###4127957
+turvo###4127965
+ubirata###4128005
+umuarama###4128104
+uniao da vitoria###4128203
+uniflor###4128302
+urai###4128401
+wenceslau braz###4128500
+ventania###4128534
+vera cruz do oeste###4128559
+vere###4128609
+vila alta###4128625
+doutor ulysses###4128633
+virmond###4128658
+vitorino###4128708
+xambre###4128807
